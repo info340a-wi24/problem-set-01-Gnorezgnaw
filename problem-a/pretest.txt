@@ -1,4 +1,5 @@
-Used test-driven development
+ FAIL  problem-a/problem.spec.js
+ Used test-driven development
     ✕ Used Jest to pre-test code, saved in `pretest.txt` (1 ms)
   Source code is valid
     ✓ HTML validates without errors (3 ms)
